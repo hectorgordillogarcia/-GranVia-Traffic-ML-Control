@@ -55,6 +55,16 @@ Visualizations and comparison graphs are available in the `results/` folder.
 
 ---
 
+## 🖼️ Gran Vía: Real vs Simulated
+
+Below is a comparison between a real map snapshot of Gran Vía and the corresponding simulated layout in SUMO:
+
+<p align="center">
+  <img src="GranViaReal.png" alt="Gran Vía Real" width="45%"/>
+  <img src="GranViaSUMO.png" alt="Gran Vía in SUMO" width="45%"/>
+</p>
+
+
 ## 👨‍🔬 Authors
 
 **Héctor Gordillo** · **David Laborda** · **Javier Fernández** · **Martín Loring**
